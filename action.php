@@ -26,7 +26,6 @@
     <?php
         include_once ("./nav.html");
 
-        //Neki komentar
     ?>
 
     <div class="header2">
